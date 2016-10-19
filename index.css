@@ -4,7 +4,7 @@ body{
 }
 
 #topbar{
-	background-color: #85C1E9;
+	background-color: #5DADE2;
 	width:100%;
 	height: 50px;
 }
@@ -44,9 +44,8 @@ a:hover {
 
 .formdiv{
 	clear: both;
-	background-color: red;
 	width:400px;
 	height: 500px;
 	margin: auto;
-	margin-top: 50px;
+	margin-top: 80px;
 }
