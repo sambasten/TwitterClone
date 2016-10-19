@@ -33,15 +33,18 @@ body{
 	padding-right: 20px;
 }
 
-a{
+#topmenudiv li a{
 	color:white;
 	text-decoration: none;
+}
+
+#topmenudiv li a:hover{
+	text-decoration: underline;;
 }
 
 a:hover {
 	text-decoration: underline;
 }
-
 .formdiv{
 	clear: both;
 	width:400px;
